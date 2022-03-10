@@ -1,0 +1,162 @@
+
+body{
+   color: rgb(0, 0, 0);
+   margin: 10px;
+   background-image:url(../images/pitbull7.jpg);
+}
+
+
+h1, h2{
+    text-align: center;
+    font-size:60px;
+    color: #000000;
+    margin: 30px 0 0 0;
+}
+
+
+h2{
+    text-align: center;
+    font-size:50px;
+}
+
+p{
+    text-align: justify;
+    color: #000000;
+    background-color:rgb(223, 216, 152)
+    border green;
+    font-size: 20px;
+    margin: 0 50px 0 0;
+}
+
+ol{
+    text-align: center;
+}
+
+img{
+    width: 300px;
+
+}
+
+main{
+    width:80%;
+    background-color: rgb(173, 205, 214);
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#rojo{
+    background-color: rgb(218, 142, 29);
+}
+
+
+
+.centrar{
+    text-align: center;
+}
+
+.celeste{
+    background-color: rgb(160, 255, 255);
+}
+
+.titulo{
+    text-align: center;
+    font-size:50px;
+    font-size: georgia;
+}
+
+.letra{
+    text-align: center;
+    font-size:20px;
+    font-size: georgia; 
+}
+
+footer{
+    margin: 50px auto;
+    font-size: georgia;
+}
+
+nav ol li{
+    list-style: none;
+    display: inline;
+}
+
+nav ol li a{
+    text-decoration: none;
+    padding: 7px 10px;
+    margin: 0 20px 0 0;
+    border: 1px solid rgb(255, 0, 21);
+    background: rgb(35, 183, 220);
+    color: rgb(0, 0, 0);
+    border-radius:  7px; ;
+}
+
+nav ol li a:hover{
+    background: rgb(46, 149, 208);
+    color: #000;
+}
+
+.letra ul li{
+    list-style: none;
+    text-align: center;
+}
+
+.floatR{
+    float: right;
+    width: 800px;
+    font-size: georgia;
+    font-size:25px;
+    margin: 100px auto;
+}
+
+.floatL{
+    float: left;
+    width: 450px;
+}
+
+
+.clear{
+    clear: both;
+}
+
+.ajuste{
+    float: right;
+    width: 300px;
+    margin: 0 20px 0 0;
+    
+}
+
+.ajuste2{
+    float: left;
+    width: 300px;
+    margin: 0 0 0 20px;
+}
+
+.ajuste3{
+    float: left;
+    width: 300px;
+    margin: 0 0 0 300px;
+
+}
+
+.confi{
+    text-align: center;
+    font-size: georgia;
+    font: size 5px;
+}
+
+.texto{
+    font-size: georgia;
+    font: size 25px;
+    margin: 0 30px 0 30px;
+}
+
+.titulos{
+    font-size: georgia;
+    font: size 10px;
+    font-weight: bold;
+}
+
+
+
+
